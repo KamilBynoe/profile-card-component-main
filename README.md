@@ -90,6 +90,9 @@ I still have a lot of github questions between here and mastery and some of my g
 
 ### What I learned
 
+Thing One: What are SVGs and how to use them?
+
+I'd never used SVGs in a project before to create a background. Using SVGs to create the bubble effect on this project was [REDACTED UNTIL I KNOW WHAT IT WAS LIKE]
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:

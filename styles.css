@@ -1,0 +1,61 @@
+:root{
+    --cyan: hsl(185, 75%, 39%);
+    --desat-blue: hsl(229, 23%, 23%);
+    --dark-gray-blue: hsl(227, 10%, 46%);
+
+    --gray: hsl(0, 0%, 59%);
+
+    font-family: Kumbh Sans;
+    background-color: var(--cyan)
+}
+
+#vicpic{
+    border-radius: 50px;
+    position:absolute;
+    right:calc(50% - 48px);
+    top:  calc(30% - 48px);
+    border: 3px solid white;
+}
+.card{
+    height: 200px;
+    width: 250px;
+    margin: 200px auto;
+    position: relative;
+}
+
+.background{
+    height:30%;
+    background-image:url("images/bg-pattern-card.svg");
+    border-radius: 10px 10px 0 0;
+}
+
+.info{
+    height: 40%;
+    background-color: white;
+    text-align:center;
+    padding-top:30%;
+}
+.stats{
+    height: 25%;
+    background: white;
+    border-top: 1px solid var(--gray);
+    border-radius: 0 0 10px 10px;
+    display: flex;
+    justify-content: space-around;
+    padding:20px;
+}
+
+.bold{
+    font-weight:700;
+}
+
+#topbubble{
+    position:absolute;
+    top:-489px;
+    left: -489px;
+}
+#bottombubble{
+    position:absolute;
+    bottom: -689px;
+    right: -489px;
+}
