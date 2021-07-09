@@ -63,9 +63,9 @@ I still have a lot of github questions between here and mastery and some of my g
   Major Components
 
   One big card with three divs
-  backgroundDiv
-  InfoDiv
-  StatsDiv
+  -backgroundDiv
+  -InfoDiv
+  -StatsDiv
 
   Somehow, we're gonna absolutely position the circular picture and give it a white border I think.
 
@@ -92,7 +92,9 @@ I still have a lot of github questions between here and mastery and some of my g
 
 Thing One: What are SVGs and how to use them?
 
-I'd never used SVGs in a project before to create a background. Using SVGs to create the bubble effect on this project was [REDACTED UNTIL I KNOW WHAT IT WAS LIKE]
+I'd never used SVGs in a project before to create a background. Using SVGs to create the bubble effect on this project was fairly easy. I just absolutely positioned and moved around the bubbles. I understand that SVGs can do a lot more, so, I'm looking forward to seeing that. 
+
+
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
